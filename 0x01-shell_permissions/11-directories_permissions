@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x ./*[directory]
+chmod ugo+x ./*[subdirectory]
